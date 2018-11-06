@@ -8,3 +8,4 @@ Speicherstadt-Erweiterung: Schiff
 * Hafen Museum Hamburg
 * Museumshafen Ovelgönne
 * http://www.nefershapiland.de/Hamburg%20II.htm
+* https://www.hamsterkiste.de/037/Sandtorhafen/010.html
