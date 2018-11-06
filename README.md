@@ -7,3 +7,4 @@ Speicherstadt-Erweiterung: Schiff
 * Internationales Maritimes Museum Hamburg
 * Hafen Museum Hamburg
 * Museumshafen Ovelgönne
+* http://www.nefershapiland.de/Hamburg%20II.htm
