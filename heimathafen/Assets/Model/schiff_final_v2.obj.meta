@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: c7f0c375d96b8b44fbf211157432d0d2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group1_pasted__tugboat_prop3_pasted__polySurface506_group1_pasted__tugboat_prop3_pasted__polySurface506
+    100002: //RootNode
+    400000: group1_pasted__tugboat_prop3_pasted__polySurface506_group1_pasted__tugboat_prop3_pasted__polySurface506
+    400002: //RootNode
+    2100000: Geruest
+    2100002: Zaun
+    2100004: Abgasrohr
+    2100006: Schiffsschraube
+    2100008: Schiffsfassade
+    2100010: Gummireifen
+    2100012: Rohr
+    2100014: Deck_Bodendings
+    2100016: Tuer
+    2100018: Rettungsboot
+    2100020: Deck_Bodentuer
+    2100022: Deckfassade
+    2100024: Festhackdings
+    2100026: Holzboden_unten
+    2100028: Mast_Basis
+    2100030: Glas
+    2100032: Brueckefassade
+    2300000: group1_pasted__tugboat_prop3_pasted__polySurface506_group1_pasted__tugboat_prop3_pasted__polySurface506
+    3300000: group1_pasted__tugboat_prop3_pasted__polySurface506_group1_pasted__tugboat_prop3_pasted__polySurface506
+    4300000: group1_pasted__tugboat_prop3_pasted__polySurface506_group1_pasted__tugboat_prop3_pasted__polySurface506
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Abgasrohr
+    second: {fileID: 2100000, guid: f0ba0981ec90f664784079141bc1f0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brueckefassade
+    second: {fileID: 2100000, guid: 8913118e54175814a80969d0be7dd19d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deck_Bodendings
+    second: {fileID: 2100000, guid: 47506655ddfe86744940627ea64d3753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deck_Bodentuer
+    second: {fileID: 2100000, guid: 57b8ec37c0dfa0e46b95314c9e737385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deckfassade
+    second: {fileID: 2100000, guid: dd479d675b3bee1458426b1060b0c2b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Festhackdings
+    second: {fileID: 2100000, guid: de6d6732d5aaa8c4bac6700d07a6aab5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Geruest
+    second: {fileID: 2100000, guid: 3077bb04ba415e14f9d69741e3747ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas
+    second: {fileID: 2100000, guid: 128c91a5830cfd244a00b418a55daae1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gummireifen
+    second: {fileID: 2100000, guid: a6ffeab671132614f9b01b7217503741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holzboden_unten
+    second: {fileID: 2100000, guid: b6bdd7bd8bc0c7e42bdfa3d0c0b4ad4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mast_Basis
+    second: {fileID: 2100000, guid: 98b4c06c2518eca4488546f52be2b61e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rettungsboot
+    second: {fileID: 2100000, guid: f12ca03820f87ac4798a946d6e196a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rohr
+    second: {fileID: 2100000, guid: 9b6bf60735046e5478d3e29ecbaae26a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schiffsfassade
+    second: {fileID: 2100000, guid: a4691b982e753534aa06cbbd121475e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schiffsschraube
+    second: {fileID: 2100000, guid: f3bb684882671e84a97c54b16c9bd3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tuer
+    second: {fileID: 2100000, guid: 9ac824c4bbc78d145b2d78cf816863f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zaun
+    second: {fileID: 2100000, guid: 96b0a2eff7b1764498e534e09ca2c9a7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

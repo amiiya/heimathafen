@@ -1,0 +1,71 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl Geruest
+kd 0.8 0.0405602 0.525175
+illum 1
+
+newmtl Zaun
+kd 0.8 0.0476119 0.0476119
+illum 1
+
+newmtl Abgasrohr
+kd 0.0155742 0.0180909 0.128239
+illum 1
+
+newmtl Schiffsschraube
+kd 0.8 0.621042 0.0421179
+illum 1
+
+newmtl Schiffsfassade
+kd 0.0908378 0.0908378 0.0908378
+illum 1
+
+newmtl Gummireifen
+kd 0.0203788 0.0203788 0.0203788
+illum 1
+
+newmtl Rohr
+kd 0.8 0.607354 0.00950103
+illum 1
+
+newmtl Deck_Bodendings
+kd 0.445747 0.575724 0.8
+illum 1
+
+newmtl Tuer
+kd 0.8 0.22613 0.130322
+illum 1
+
+newmtl Rettungsboot
+kd 0.0143529 0.157434 0.0104981
+illum 1
+
+newmtl Deck_Bodentuer
+kd 0.194889 0.320843 0.8
+illum 1
+
+newmtl Deckfassade
+kd 0.8 0.178072 0.515451
+illum 1
+
+newmtl Festhackdings
+kd 0.510984 0.8 0.26924
+illum 1
+
+newmtl Holzboden_unten
+kd 0.384374 0.271611 0.228756
+illum 1
+
+newmtl Mast_Basis
+kd 0.0802075 0.232124 0.8
+illum 1
+
+newmtl Glas
+kd 0.133941 0.265596 0.8
+illum 1
+
+newmtl Brueckefassade
+kd 0.114619 0.8 0.586889
+illum 1
+
